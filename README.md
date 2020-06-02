@@ -1,2 +1,2 @@
-# sample-wpf
+# samplewpf
 WPF sample project
