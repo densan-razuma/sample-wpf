@@ -1,8 +1,13 @@
 name: build
 
-on:
-  push:
-    branches: [ master ]
+# on:
+#   push:
+#     branches: [ master ]
+
+inputs:
+  input_param:
+    description: 'input description here.'
+    required: true
 
 jobs:
   build:
